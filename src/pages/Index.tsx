@@ -164,7 +164,7 @@ const Index = () => {
         </FadeIn>
         <FadeIn delay={0.8}>
           <p className="mt-16 text-muted-foreground/60 text-xs tracking-[0.3em] uppercase">
-            Scroll slowly. BACA YANG BENER. GAUSA CEPET-CEPET.
+            Scroll slowly. BACA YANG BENER
           </p>
         </FadeIn>
       </section>
@@ -243,7 +243,7 @@ const Index = () => {
           </FadeIn>
           <FadeIn delay={0.5}>
             <p className="text-muted-foreground/50 text-sm font-light mt-8">
-              — Harvlin in his mind, probably at 2 AM, trying to sound cool but actually just being a soft idiot, well ofc I ga text u beneran karena maluu
+              — Harvlin in his mind, probably at 2 AM, well ofc I ga text u beneran karena maluu
             </p>
           </FadeIn>
         </div>
@@ -254,7 +254,7 @@ const Index = () => {
         <div className="max-w-md text-center">
           <FadeIn>
             <h2 className="font-serif text-3xl md:text-5xl text-foreground mb-12">
-              You're kinda dangerous, <span className="text-love/70"></span>.
+              You're kinda dangerous, <span className="text-love/70"></span>
             </h2>
           </FadeIn>
           <FadeIn delay={0.2}>
